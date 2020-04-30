@@ -1,4 +1,3 @@
-
 #!/system/bin/sh
 clear
 echo ""
